@@ -7,13 +7,25 @@ Please make sure you have Framer X installed and you’re ready to follow along.
 Download: https://www.framer.com/download/
 
 
-# Downloads
+# Framer Downloads
 
 * [Download Framer X](http://framer.com/download/)
 * [Download Framer Preview iOS](https://apps.apple.com/us/app/framer-preview/id1124920547)
 * [Download Framer Preview Android](https://play.google.com/store/apps/details?id=com.framerjs.android)
 
-# Resources
+# Mapbox Resources
+
+## API Key
+
+`pk.eyJ1Ijoiam9yZGFuZnJhbWVyIiwiYSI6ImNqeDM1aWZpajA2NjI0M3JsZmZld3A3NzEifQ.zH6oflEZBxf_ev7HmBbmWw`
+
+## Tutorials
+
+* [Design with Mapbox in Framer X](https://www.framer.com/blog/posts/mapboxs-new-components/)
+* [MAPBOX Prototype apps with Mapbox in Framer X](https://docs.mapbox.com/help/tutorials/mapbox-framer-x/)
+* [Mapbox How To Videos](https://www.youtube.com/watch?v=hY4W0MGHNog&list=PL86WBCjNmqh6CUHKIY3K6yEME0VhO2A3a&index=1)
+
+# Other Resources & Links
 
 * [Framer API Tutorial](http://framer.com/api/tutorial)
 * [Framer Motion](http://framer.com/motion)
