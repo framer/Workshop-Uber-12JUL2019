@@ -17,10 +17,11 @@ Download: https://www.framer.com/download/
 
 * [Framer API Tutorial](http://framer.com/api/tutorial)
 * [Framer Motion](http://framer.com/motion)
+* [Framer Javscript / React Guide](https://paper.dropbox.com/doc/Framer-ES6-React-Guide--AgtVYTgKyBDlBGpeBKasgIq1AQ-Th7joG9fFSSiyZgOFYqj6)
 * [Going from Framer to Framer X](https://uxdesign.cc/going-from-framer-to-framer-x-166f1dcef8dd?sk=e4cf3e58d5c9f7fdcb4d8b9f11ab2d50)
 * [React for Web Designers](https://www.framer.com/blog/posts/react-for-web-designers/)
 * [Framer X Video Course: Tab Bar](https://paper.dropbox.com/doc/Framer-X-Video-Course-Tab-Bar--AgvowXBWW~IFEYs_7f1lQ7SkAQ-U2FE6ScJSo9HzZBsUIZ8B)
 
 ---
 
-**Uber Workshop** July 12th, 2019
+**Uber Workshop** on July 12th, 2019 by Jordan Dobson
