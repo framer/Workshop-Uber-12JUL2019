@@ -1,0 +1,32 @@
+[
+  {
+    "name": "",
+    "location": {
+      "longitude": -122.44846343994139,
+      "latitude": 47.263548312732055
+    },
+    "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 0 },
+    "category": "",
+    "details": ""
+  },
+  {
+    "name": "",
+    "location": {
+      "longitude": -122.4531412124634,
+      "latitude": 47.25884465610866
+    },
+    "focusLocation": { "zoom": 13, "bearing": 0, "pitch": 0 },
+    "category": "",
+    "details": ""
+  },
+  {
+    "name": "",
+    "location": {
+      "longitude": -122.45927810668945,
+      "latitude": 47.26373761524131
+    },
+    "focusLocation": { "zoom": 13, "bearing": 0 },
+    "category": "",
+    "details": ""
+  }
+]
